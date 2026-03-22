@@ -67,7 +67,7 @@ Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará. Esto
     alt = "GitHub stats"
     height = 200
     style ="padding-right:10px;"
-    src=" https://github-readme-stats.vercel.app/api/top-langs/?username=gFelixx09&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&v=2"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gFelixx09&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&v=2"  
 />
 
          
