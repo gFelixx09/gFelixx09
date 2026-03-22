@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-and`**
 
-Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará. Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de técnico em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
+Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
+Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de técnico<br>
+em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
 
 ---
 
