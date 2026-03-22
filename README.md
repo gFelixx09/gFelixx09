@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Felix
 
-**`Desenvolvedor Back-and`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
 Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de<br> técnico
