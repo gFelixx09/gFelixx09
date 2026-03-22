@@ -64,7 +64,6 @@ Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará. Esto
 ### 📊 Estatistica
 
  <img 
-    align = "left"
     alt = "GitHub stats"
     height = 200
     style ="padding-right:10px;"
