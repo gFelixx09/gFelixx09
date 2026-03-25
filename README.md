@@ -72,6 +72,12 @@ em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gFelixx09&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&v=2"  
 />
 
+###
+
+<img src="https://raw.githubusercontent.com/gFelixx09/gFelixx09/output/snake.svg" alt="Snake animation" />
+
+###
+
          
 
 
