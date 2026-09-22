@@ -1,83 +1,38 @@
-# Hi! My name is Gabriel and I'm Developer, from Brazil
 
-**`Desenvolvedor Back-end`**
-
-Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
-Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de<br> técnico
-em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-
- <img 
-    align = "left"
-    alt = "Java Script"
-    title = "Java Script"
-    width = 25px
-    style ="padding-right:10px;margin-top:5px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"    
-/>
- <img 
-    align = "left"
-    alt = "Python"
-    title = "Python"
-    width = 32px
-    style ="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"        
-/>
- <img 
-    align = "left"
-    alt = "C++"
-    title = "C++"
-    width = 32px
-    style ="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"              
-/>
- <img 
-    align = "left"
-    alt = "PHP"
-    title = "PHP"
-    width = 32px
-    style ="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
- <img 
-    align = "left"
-    alt = "HTML"
-    title = "HTML"
-    width = 32px
-    style ="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
- <img 
-    align = "left"
-    alt = "PHP"
-    title = "PHP"
-    width = 32px
-    style ="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatistica
-
- <img 
-    alt = "GitHub stats"
-    height = 200
-    style ="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gFelixx09&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&v=2"  
-/>
-
-###
-
-<img src="https://raw.githubusercontent.com/gFelixx09/gFelixx09/output/snake.svg" alt="Snake animation" />
-
-###
 
          
+<h2 data-importer="text" align="left">Hi 👋! My name is Gabriel and I'm a Developer, from Brazil</h2>
 
+###
+
+<img data-importer="image" align="right" height="150" src=""  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
 
