@@ -1,6 +1,6 @@
 # Hi! My name is Gabriel and I'm Developer, from Brazil
 
-**`Desenvolvedor Back-end`**
+**`Developer Back-end`**
 
 Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
 Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de<br> técnico
