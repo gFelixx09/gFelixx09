@@ -8,7 +8,7 @@ em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Languages
 
 
   <div align="left">
