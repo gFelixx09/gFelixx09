@@ -2,13 +2,21 @@
 
 **`Developer Back-end`**
 
-Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
-Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de<br> técnico
-em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
+### 👨‍💻 About Me
+
+* Currently exploring **Java, TypeScript and Python**
+* Interested in **Object-Oriented Programming, Backend Development and Databases**
+* Always building, experimenting and learning new technologies
+* Turning ideas into projects and improving my skills one line of code at a time
+
+### 📬 Get in touch
+
+**Email:** [gabrielfelix598y@gmail.com](mailto:gabrielfelix598y@gmail.com)
+
 
 ---
 
-### Languages
+### Languages:
 
 
   <div align="left">
