@@ -1,16 +1,17 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Developer, from Brazil</h2>
+# Hi! My name is Gabriel and I'm Developer, from Brazil
 
-###
+**`Desenvolvedor Back-end`**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gfelixx09&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+Me chamo Claudio Gabriel Felix Lima, tenho 16 anos e sou natural do Ceará.<br>
+Estou cursando o ensino médio na EEEP Joaquim Antônio Albano, no curso de<br> técnico
+em informática. Sou apaixonado por tecnologia e desenvolver sistemas.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfelixx09&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
+---
 
-###
+### 🤖 Linguagens e Tecnologias
 
-<div align="left">
+
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
 
@@ -37,11 +38,13 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
 </div>
+    
+
+
+
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gfelixx09/Gfelixx09/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gFelixx09/gFelixx09/output/snake.svg" alt="Snake animation" />
 
 ###
