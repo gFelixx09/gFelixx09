@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Felix
+# Hi! My name is Gabriel and I'm Developer, from Brazil
 
 **`Desenvolvedor Back-end`**
 
